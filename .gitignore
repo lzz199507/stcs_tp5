@@ -1,0 +1,7 @@
+.idea
+composer.lock
+*.log
+application/database.php
+<<<<<<< HEAD
+=======
+>>>>>>> 0d065440be533710956622e3bbbf3769c635bd99
